@@ -17,12 +17,12 @@ LinkGenie is a powerful URL analyzer built using Streamlit and LangChain. It all
 ## Project Structure
 
 ```
-URLGenie/
-├── OpenAI_Project/
+LinkGenie/
+├── OpenAI/
 │   ├── requirements.txt
 │   ├── .env
 │   └── main.py
-├── Gemma_Project/
+├── Gemma/
 │   ├── requirements.txt
 │   └── main.py
 ├── linkgenie_screenshot.png - /48a010aa-4025-48d9-b4d1-22f6161a1c40.jpg
