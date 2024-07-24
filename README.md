@@ -1,5 +1,7 @@
 # LinkGenie
 
+
+
 LinkGenie is a powerful URL analyzer built using Streamlit and LangChain. It allows users to input multiple URLs, process their content, and ask questions about the information contained within those web pages.
 
 ![LinkGenie Screenshot](/48a010aa-4025-48d9-b4d1-22f6161a1c40.jpg)
@@ -31,13 +33,13 @@ URLGenie/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/URLGenie.git
-   cd URLGenie
+   git clone https://github.com/tarun4632/LinkGenie.git
+   cd LinkGenie
    ```
 
 2. Set up the OpenAI Project:
    ```
-   cd OpenAI_Project
+   cd OpenAI
    pip install -r requirements.txt
    ```
    Create a `.env` file and add your OpenAI API key:
@@ -47,7 +49,7 @@ URLGenie/
 
 3. Set up the Gemma Project:
    ```
-   cd ../Gemma_Project
+   cd ../Gemma
    pip install -r requirements.txt
    ```
 
@@ -55,13 +57,13 @@ URLGenie/
 
 1. To run the OpenAI version:
    ```
-   cd OpenAI_Project
+   cd OpenAI
    streamlit run app.py
    ```
 
 2. To run the Gemma version:
    ```
-   cd Gemma_Project
+   cd Gemma
    streamlit run app.py
    ```
 
@@ -77,7 +79,6 @@ URLGenie/
 - LangChain
 - OpenAI GPT-3.5 Turbo (for OpenAI Project)
 - FAISS for vector storage and retrieval
-- SentenceTransformers (for Gemma Project)
 
 ## Contributing
 
