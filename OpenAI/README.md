@@ -1,1 +1,1 @@
-# LinkGenie
+# LinkGenie - OpenAI
