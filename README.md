@@ -2,7 +2,7 @@
 
 LinkGenie is a powerful URL analyzer built using Streamlit and LangChain. It allows users to input multiple URLs, process their content, and ask questions about the information contained within those web pages.
 
-![LinkGenie Screenshot](https://raw.githubusercontent.com/yourusername/URLGenie/main/linkgenie_screenshot.png)
+![LinkGenie Screenshot](/48a010aa-4025-48d9-b4d1-22f6161a1c40.jpg)
 
 ## Features
 
@@ -23,7 +23,7 @@ URLGenie/
 ├── Gemma_Project/
 │   ├── requirements.txt
 │   └── main.py
-├── linkgenie_screenshot.png
+├── linkgenie_screenshot.png - /48a010aa-4025-48d9-b4d1-22f6161a1c40.jpg
 └── README.md
 ```
 
